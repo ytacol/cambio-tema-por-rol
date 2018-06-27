@@ -1,0 +1,5 @@
+name: Selector de Tema por rol
+type: module
+description: Modulo para el cambio dinamico de tema según el rol de usuarios
+package: custom
+core: 8.x

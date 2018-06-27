@@ -1,0 +1,8 @@
+langcode: es
+status: true
+dependencies: {  }
+id: externo
+label: Externo
+weight: 30
+is_admin: null
+permissions: {  }
